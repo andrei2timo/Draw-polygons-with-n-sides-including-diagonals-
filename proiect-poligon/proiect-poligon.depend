@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1487831223 source:c:\users\suvit\desktop\proiect-poligon\main.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	<graphics.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1490898935 source:d:\clasa 10\matematica\proiect-poligon\main.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	<graphics.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1592310945 source:c:\users\suvit\desktop\portofoliu\proiect-poligon\main.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	<graphics.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1592318690 source:c:\users\suvit\desktop\uwe\portofoliu\proiect-poligon\main.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	<graphics.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
